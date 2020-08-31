@@ -1,0 +1,13 @@
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\bin\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.exe
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\bin\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.deps.json
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\bin\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.runtimeconfig.json
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\bin\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.runtimeconfig.dev.json
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\bin\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.dll
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\bin\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.pdb
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\obj\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.csprojAssemblyReference.cache
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\obj\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.AssemblyInfoInputs.cache
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\obj\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.AssemblyInfo.cs
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\obj\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.csproj.CoreCompileInputs.cache
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\obj\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.dll
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\obj\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.pdb
+C:\Users\Lacey\workspace\Chapter8ReadingAndWriting\obj\Debug\netcoreapp3.1\Chapter8ReadingAndWriting.genruntimeconfig.cache
